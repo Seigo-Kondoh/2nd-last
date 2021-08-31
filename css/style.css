@@ -316,7 +316,7 @@ Top
 @media screen and (max-width: 767px) {
   .top-picture {
     padding-top: 120%;
-    background: url(/img/top.png) center center/cover;
+    background: url(https://seigo-kondoh.github.io/2nd-last/img/top.png) center center/cover;
   }
 }
 @media screen and (min-width: 768px) {
@@ -491,7 +491,7 @@ About
 }
 @media screen and (max-width: 767px) {
   .about {
-    background: url(/img/sp.bg.png) center center/cover;
+    background: url(https://seigo-kondoh.github.io/2nd-last/img/sp.bg.png) center center/cover;
     padding: 176px 0 52px;
   }
 }
@@ -794,7 +794,7 @@ Concept2
 Contact
 ================================*/
 .contact {
-  background: url(/img/contact.png) center center/cover;
+  background: url(https://seigo-kondoh.github.io/2nd-last/img/contact.png) center center/cover;
   margin-top: 225px;
   padding: 72px 40px 86px;
 }
